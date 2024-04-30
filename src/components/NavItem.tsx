@@ -28,9 +28,9 @@ export default function NavItem({
     >
       <Link
         className={clsx(
-          "flex w-full items-center justify-center px-3 py-1 hover:text-white transition",
+          "flex w-full items-center justify-center px-3 py-1 text-white dark:text-[#656a70] dark:hover:text-white hover:text-black transition",
           {
-            "text-white": activeSection === name,
+            "dark:text-white text-black": activeSection === name,
           }
         )}
         href={hash}

@@ -2,37 +2,37 @@
   {
     "name": "HTML",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019713/technologiesIcons/html_jcl3ng.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434598/technologies/html_fjpljh.webp"
   },
   {
     "name": "CSS",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019714/technologiesIcons/css_rzvsep.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434427/technologies/css_qrvvc4.webp"
   },
   {
     "name": "Bootstrap",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251124/technologiesIcons/bootstrap_zkdwqk_izzlct.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434424/technologies/bootstrap_sncphi.webp"
   },
   {
     "name": "Tailwind",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251140/technologiesIcons/tailwind_nqqz9f_mufnbe.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434809/technologies/tailwind_cbwtxe.webp"
   },
   {
     "name": "Javascript",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019712/technologiesIcons/javascript_oazdos.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434603/technologies/javascript_rlyufw.webp"
   },
   {
     "name": "Typescript",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251143/technologiesIcons/typescript_rn9fnx_nhvlas.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434875/technologies/typescript_u78x8p.webp"
   },
   {
     "name": "React",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019707/technologiesIcons/react_dggumf.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434766/technologies/react_zgyiwz.webp"
   },
   {
     "name": "Vite",
@@ -42,81 +42,96 @@
   {
     "name": "Next",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251134/technologiesIcons/next-js.256x256_kkymbd_skw9kk.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434651/technologies/next_izm05u.webp"
   },
   {
     "name": "Redux",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019704/technologiesIcons/redux_amva4t.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434771/technologies/redux_hus1n9.webp"
   },
   {
     "name": "Zustand",
     "type": "frontend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251147/technologiesIcons/zustand_tw5pyx_ua4va3.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434886/technologies/zustand_ncgyxo.webp"
   },
   {
     "name": "Javascript",
     "type": "backend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019712/technologiesIcons/javascript_oazdos.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434603/technologies/javascript_rlyufw.webp"
   },
   {
     "name": "Typescript",
     "type": "backend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251143/technologiesIcons/typescript_rn9fnx_nhvlas.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434875/technologies/typescript_u78x8p.webp"
   },
   {
     "name": "NodeJS",
     "type": "backend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019710/technologiesIcons/nodejs_kdynt0.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434656/technologies/nodejs_lxqvhx.webp"
   },
   {
     "name": "Express",
     "type": "backend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251126/technologiesIcons/express_ozttqg_z4s0lw.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434584/technologies/express_pui4sf.webp"
+  },
+  {
+    "name": "Swagger",
+    "type": "backend",
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434804/technologies/swagger_b6ybft.webp"
   },
   {
     "name": "PostgreSQL",
     "type": "backend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019708/technologiesIcons/postgresql_qxbewp.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434759/technologies/postgresql_duvt0h.webp"
+  },
+  {
+    "name": "MySQL",
+    "type": "backend",
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434618/technologies/mysql_ojcqbh.webp"
   },
   {
     "name": "Sequelize",
     "type": "backend",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251137/technologiesIcons/sequelize_qhwn7o_ulrrjd.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434779/technologies/sequelize_e87xlx.webp"
   },
   {
     "name": "VSC",
     "type": "tool",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707250789/technologiesIcons/vsc_kfrwcj.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434881/technologies/vsc_sqyamh.webp"
   },
   {
     "name": "Git",
     "type": "tool",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251129/technologiesIcons/git_2_xssek1_dhd56k.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434589/technologies/git_xeoiqn.webp"
   },
   {
     "name": "GitHub",
     "type": "tool",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251131/technologiesIcons/github_p99sfs_ty755f.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434593/technologies/github_vazjdl.webp"
   },
   {
     "name": "Jira",
     "type": "tool",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707250893/technologiesIcons/jira_mbeugk.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434608/technologies/jira_c6psdf.webp"
   },
   {
     "name": "Docker",
     "type": "tool",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1708200655/technologiesIcons/docker_ixdvf8.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434471/technologies/docker_oksspe.webp"
   },
   {
     "name": "Typescript",
     "type": "learn",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707251143/technologiesIcons/typescript_rn9fnx_nhvlas.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434875/technologies/typescript_u78x8p.webp"
+  },
+  {
+    "name": "NestJS",
+    "type": "learn",
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434993/technologies/nestjs_cz965o.webp"
   },
   {
     "name": "MongoDB",
     "type": "learn",
-    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707250785/technologiesIcons/mongodb_kjtdra.png"
+    "url": "https://res.cloudinary.com/dub4acwkh/image/upload/v1714434613/technologies/mongodb_zlov2f.webp"
   }
 ]

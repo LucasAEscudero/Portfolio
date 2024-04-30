@@ -28,7 +28,7 @@ export default function ProjectCard({
 }: Props) {
   return (
     <motion.article
-      className="card m-3 rounded-md transition-all min-h-[250px] border-2 hover:scale-105"
+      className="card m-3 rounded-md transition-all min-h-[250px] border-2 sm:flex"
       variants={variants}
       initial="hidden"
       animate="visible"
@@ -40,12 +40,11 @@ export default function ProjectCard({
         alt={`${title} - image`}
         width={300}
         height={50}
-        className="rounded-t w-full max-h-[250px] md:max-h-[300px]"
+        className="rounded-t sm:rounded-l w-full"
       />
-      <div className="m-4">
-        <div>
-          <h2 className="text-xl">{title}</h2>
-        </div>
+      <div className="m-4 flex flex-col justify-around">
+        <h2 className="text-xl">{title}</h2>
+
         <p>{resume}</p>
         <ul className="flex gap-2 flex-wrap justify-center my-2">
           {technologies?.map((technology) => (
