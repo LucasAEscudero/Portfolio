@@ -1,5 +1,61 @@
 [
   {
+    "title": "Health Link",
+    "slug": "healthlink",
+    "resume": "En colaboracion con un equipo multidisciplinario compuesto por un diseñador UX/UI y un ingeniero de QA, desarrollamos una aplicación web de telemedicina, en la cual desempeñe el rol de Fullstack Developer, desarrollando el Frontend y el Backend.",
+    "description": "En colaboración con un equipo multidisciplinario compuesto por un diseñador UX/UI y un ingeniero de QA, participé en el desarrollo de una aplicación web de telemedicina. Nuestro objetivo era mejorar la accesibilidad, conveniencia y efectividad de la atención médica para todos. Implementamos chats de texto para facilitar la interacción médico-paciente, así como teleconsultas utilizando Google Meet y Google Calendar, de manera tal que se genere un evento en los calendarios de ambos. Los chats de texto fueron diseñados para ser iniciados únicamente por los pacientes, mientras que las teleconsultas para que sean gestionadas unicamente por los médicos. Como desarrollador Fullstack, me encargué tanto del Frontend como del Backend, incluyendo el diseño y la implementación de la base de datos.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "React",
+      "Vite",
+      "Redux Toolkit",
+      "NodeJS",
+      "Express",
+      "Swagger",
+      "MySQL",
+      "Sequelize"
+    ],
+    "links": {
+      "github": "https://github.com/No-Country/c17-05-m-node-react",
+      "deploy": "https://health-link-web.onrender.com",
+      "swagger": "https://health-link-api.onrender.com/docs"
+    },
+    "image": "https://res.cloudinary.com/dub4acwkh/image/upload/v1715219130/projects_logo/healthlink_nmgt9l.webp",
+    "tags": {
+      "collaborators": true,
+      "academy": "No Country"
+    },
+    "date": "Mar. 2024 - Abr. 2024"
+  },
+  {
+    "title": "NASA Images",
+    "slug": "nasaimages",
+    "resume": "Desarrolle una aplicación web usando la API de imagenes de la NASA, la cual tenia como objetivo renderizar, buscar, agregar a favoritos y ver detalles de imagenes que proporciona la API, la cual se actualiza cada dia con una imagen nueva.",
+    "description": "He desarrollado una aplicación web que muestra imágenes obtenidas de la API de imágenes de la NASA. Esta aplicación cuenta con varias características: una página de inicio que se actualiza diariamente con una nueva imagen de la API de la NASA, una galería que presenta una amplia variedad de imágenes disponibles, un apartado de favoritos donde los usuarios pueden guardar las imágenes que deseen y un apartado de los detalles de cada imagen, incluyendo su explicación correspondiente.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Tailwind",
+      "Typescript",
+      "React",
+      "Next",
+      "Zustand"
+    ],
+    "links": {
+      "github": "https://github.com/LucasAEscudero/nasa_images",
+      "deploy": "https://nasa-images-drab.vercel.app/"
+    },
+    "image": "https://res.cloudinary.com/dub4acwkh/image/upload/v1715219133/projects_logo/nasaimages-coxbk8_wt6cqo.webp",
+    "tags": {
+      "collaborators": false,
+      "academy": "Autonomo"
+    },
+    "date": "Ene. 2023 - Feb. 2023"
+  },
+  {
     "title": "Cer03",
     "slug": "cer03",
     "resume": "Junto con un grupo de compañeros desarrollamos una aplicación web de posventa, con el propósito de simplificar el trabajo a los pequeños negocios de la gestión de ventas y productos, y potenciar aún más a las grandes empresas.",
@@ -19,6 +75,7 @@
       "CSS",
       "JavaScript",
       "React",
+      "Vite",
       "Redux",
       "NodeJS",
       "Express",
@@ -29,37 +86,12 @@
       "github": "https://github.com/MorasDeFresa/Cer03",
       "deploy": "https://cer03.vercel.app/"
     },
-    "image": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019677/Cer03_up18x9.jpg",
+    "image": "https://res.cloudinary.com/dub4acwkh/image/upload/v1715219129/projects_logo/cer03-up18x9_wfcgnz.webp",
     "tags": {
       "collaborators": true,
       "academy": "Henry"
     },
     "date": "Nov. 2023 - Dic. 2023"
-  },
-  {
-    "title": "NASA Images",
-    "slug": "nasaimages",
-    "resume": "Desarrolle una aplicación web usando la API de imagenes de la NASA, la cual tenia como objetivo renderizar, buscar, agregar a favoritos y ver detalles de imagenes que proporciona la API, la cual se actualiza cada dia con una imagen nueva.",
-    "description": "Desarrolle una aplicación web que tenía como objetivo renderizar imágenes provenientes de la API de la NASA, teniendo así una landing page que se actualiza cada dia con una imagen nueva proveniente de la API, una galería dinámica, un apartado de favoritos (las imágenes renderizadas pueden agregarse al mismo) y los detalles de cada imagen con su explicación.",
-    "technologies": [
-      "HTML",
-      "CSS",
-      "Tailwind",
-      "Typescript",
-      "React",
-      "Next",
-      "Zustand"
-    ],
-    "links": {
-      "github": "https://github.com/LucasAEscudero/nasa_images",
-      "deploy": "https://nasa-images-drab.vercel.app/"
-    },
-    "image": "https://res.cloudinary.com/dub4acwkh/image/upload/v1707161397/nasaImages_coxbk8.png",
-    "tags": {
-      "collaborators": false,
-      "academy": "Autonomo"
-    },
-    "date": "Ene. 2023 - Feb. 2023"
   },
   {
     "title": "Videogames",
@@ -71,6 +103,7 @@
       "CSS",
       "JavaScript",
       "React",
+      "Vite",
       "Redux",
       "NodeJS",
       "Express",
@@ -81,7 +114,7 @@
       "github": "https://github.com/LucasAEscudero/Videogames_Proyect",
       "deploy": "https://videogames-j2d9.onrender.com/"
     },
-    "image": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019679/Videogames_c6wnd6.png",
+    "image": "https://res.cloudinary.com/dub4acwkh/image/upload/v1715219139/projects_logo/videogames-c6wnd6_ue60bi.webp",
     "tags": {
       "collaborators": false,
       "academy": "Henry"
@@ -98,6 +131,7 @@
       "CSS",
       "JavaScript",
       "React",
+      "Vite",
       "Redux",
       "NodeJS",
       "Express",
@@ -108,7 +142,7 @@
       "github": "https://github.com/LucasAEscudero/RaM_Proyect",
       "youtube": "https://www.youtube.com/watch?v=zRdht6-k8bE"
     },
-    "image": "https://res.cloudinary.com/dub4acwkh/image/upload/v1705019678/RickandMorty_g26l6q.jpg",
+    "image": "https://res.cloudinary.com/dub4acwkh/image/upload/v1715219136/projects_logo/rickandmorty-g26l6q_otdrk2.webp",
     "tags": {
       "collaborators": false,
       "academy": "Henry"

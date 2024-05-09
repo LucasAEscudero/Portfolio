@@ -7,7 +7,12 @@ export interface TProject {
   description: string;
   role?: { text: string; types: string[] };
   technologies: string[];
-  links: { github: string; deploy?: string; youtube?: string };
+  links: {
+    github: string;
+    deploy?: string;
+    youtube?: string;
+    swagger?: string;
+  };
   image: string;
   date: string;
   tags: { collaborators: boolean; academy: string };

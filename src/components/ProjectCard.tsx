@@ -3,6 +3,7 @@ import { TProject } from "@/lib/types";
 import Image from "next/image";
 import Link from "next/link";
 import { FaExternalLinkAlt, FaGithub, FaYoutube } from "react-icons/fa";
+import { SiSwagger } from "react-icons/si";
 import { motion } from "framer-motion";
 
 interface Props {
@@ -20,9 +21,10 @@ export default function ProjectCard({
     title,
     image,
     resume,
+    description,
     technologies,
     date,
-    links: { github, deploy, youtube },
+    links: { github, deploy, youtube, swagger },
   },
   i,
 }: Props) {
@@ -39,11 +41,11 @@ export default function ProjectCard({
         src={image}
         alt={`${title} - image`}
         width={300}
-        height={50}
-        className="rounded-t sm:rounded-l w-full"
+        height={100}
+        className="rounded-t sm:rounded-l sm:rounded-t-none w-full sm:min-w-100 sm:max-w-100"
       />
       <div className="m-4 flex flex-col justify-around">
-        <h2 className="text-xl">{title}</h2>
+        <h2 className="text-2xl mb-2">{title}</h2>
 
         <p>{resume}</p>
         <ul className="flex gap-2 flex-wrap justify-center my-2">
@@ -86,6 +88,17 @@ export default function ProjectCard({
               >
                 <span className="mr-2 hidden md:inline-block">Deploy</span>
                 <FaExternalLinkAlt size={18} />
+              </Link>
+            )}
+            {swagger && (
+              <Link
+                href={swagger}
+                target="_blank"
+                className="button flex items-center"
+                title="Swagger"
+              >
+                <span className="mr-2 hidden md:inline-block">Swagger</span>
+                <SiSwagger size={23} />
               </Link>
             )}
           </div>
